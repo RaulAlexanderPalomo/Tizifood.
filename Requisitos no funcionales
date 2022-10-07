@@ -1,0 +1,25 @@
+Requisitos no funcionales 
+
+Requerimientos del producto
+
+•	Al publicar fotos y/o algún articulo dentro del perfil de negocio, este no deberá de contener lenguaje ofensivo o vulgar que pueda ofender a terceros y las fotografías no deberán contener propaganda política o contenido vulgar.
+
+
+
+•	Se implementará un captcha como método de verificación para evitar el acceso a bots. 
+
+
+
+•	Para poder acceder a una cuenta ya sea como usuario o cliente, será necesario el verificar la cuenta para la protección de datos personales, así como la fiabilidad de esta.
+
+
+
+•	El sistema tendrá la capacidad para subir archivos múltiples lo que facilitará la gestión y de las fotos y el rendimiento del sitio impidiendo la saturación de esta.
+
+
+
+•	Internamente los usuarios contaran con cierto almacenamiento para el resguardo de su información y la encriptación de estos.
+
+
+
+•	Habrá un pequeño asistente el cual pueda brindar soporte de manera casi inmediata a los nuevos usuarios, esto para facilitarles el uso de y familiarizarse con la plataforma.
