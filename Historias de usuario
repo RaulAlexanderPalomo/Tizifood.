@@ -1,0 +1,110 @@
+Historia de usuarios
+
+Requisitos funcionales 
+
+
+
+Usuario 
+
+•	RF-U001
+
+Como usuario quiero poder registrarme e iniciar sesión con mi cuenta para comprar o vender.
+
+
+
+•	RF-U002
+
+Como usuario quiero poder vender para hacer crecer mi negocio de comida.
+
+
+
+•	RF-U003
+
+Como usuario quiero poder ver los lugares guardados desde mi cuenta para acudir a ellos nuevamente.
+
+
+
+•	RF-U004
+
+Como usuario quiero acceder a los restaurantes para poder elegir cualquiera.
+
+
+
+•	RF-U005
+
+Como usuario quiero acceder a los horarios de los restaurantes para que pueda informar sobre aperturas y cierres.
+
+
+
+•	RF-U006
+
+Como usuario quiero acceder a la ubicación de los restaurantes para que pueda llegar a ellos.
+
+
+
+•	RF-U007
+
+Como usuario quiero poder ver el menú de los restaurantes para que pueda saber que se ofrece allí.
+
+
+
+•	RF-U008
+
+Como usuario quiero poder dejar una reseña para saber si el sitio es recomendable o no.
+
+
+
+•	RF-U009
+
+Como usuario quiero poder contactarme con el restaurante (Llamada y/o mensaje).
+
+ 
+
+Cliente
+
+•	RF-C010
+
+Como cliente quiero poder registrarme e iniciar sesión con la cuenta de mi negocio para que pueda vender.
+
+
+
+•	RF-C011
+
+Como cliente quiero agregar mi negocio de comida local (fonda/establecimiento de comida independiente) para que pueda promocionar mi comida.
+
+
+
+•	RF-C012
+
+Como cliente quiero poder agregar la ubicación de mi negocio para que puedan acudir a ella.
+
+
+
+•	RF-C013
+
+Como cliente quiero poder agregar el número de contacto de mi negocio para que pueda contactarme con los clientes.
+
+
+
+•	RF-C014
+
+Como cliente quiero poder agregar el menú de mi negocio para que los clientes puedan elegir entre las variedades.
+
+
+
+•	RF-C015
+
+Como cliente quiero poder agregar el horario de mi negocio para que los clientes se informen de las horas de cierre y apertura.
+
+
+
+•	RF-C016
+
+Como cliente quiero poder agregar información extra de mi negocio para que los clientes puedan saber más sobre mi negocio.
+
+
+
+•	RF-C017
+
+Como cliente quiero poder agregar fotos (comidas, publicidad, etc…) de mi negocio para que pueda dar a conocer promociones e ilustraciones de las comidas 
+
